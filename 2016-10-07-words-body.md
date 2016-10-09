@@ -147,3 +147,9 @@ category： Words
 - ovary 卵巢
 - womb 子宫
 - vagina 阴道
+
+## 伤
+
+- broke my finger
+- bruised my ribs
+- sprained my wrist
