@@ -5,18 +5,14 @@ category： English
 
 ## 健康
 
-### 询问健康
-
-- How do you stay in shape?   您如何保持身体健康？
-- How do you stay healthy?
-- How often do you exercise?
-- How do you do it? 您如何锻炼？ / You look great. What's your secret?
-- How are you feeling (today)?
 - Any other sympthons(症状)?
 - What's the problem? / What's wrong? / What's the matter? / What's happening? / What's going on?
 - Where does it hurt? 伤到哪啦？
 
 ### 用 shape 搭配形容词谈论身体健康状况
+
+- How do you stay in shape?   您如何保持身体健康？
+- How do you stay healthy?
 
 - She's in excellent shape.   她身体很棒。
 - I'm in (pretty) good/excellent shape.  我身体很好。
