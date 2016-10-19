@@ -51,27 +51,6 @@ They're on the running team.    他们是田径队的。
 
 I like getting together with friends.   我喜欢跟朋友们聚在一起。
 
-## 表达能力
-
-使用单词 can 搭配动词描述能力。
-
-- John can drive.     John 会开车。
-
-Can 有两种否定形式：can't 和 cannot，它们意思相同。
-
-- I can't speak Spanish.      我不会讲西班牙语。
-I cannot speak Spanish.         我不会讲西班牙语。
-
-Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的发音。注意 Can 说得很快。
-
-I can play tennis.      我会打网球。
-
-I can't play tennis.        我不会打网球。
-
-短语 know how to 表示你具有做某事的知识或能力。添加 not 表示否定意义。
-I know how to drive.    我知道怎么开车。
-I don't know how to swim.       我不知道怎么游泳。
-
 你也可以使用短语 good at 和 bad at 描述能力程度。这些短语常常与 really、very 和 pretty 等副词搭配使用。
 
 Carol is really good at chess.  Carol 非常擅长下棋。
